@@ -1,6 +1,6 @@
 {
   "name": "lsrequireify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A browserify transform for lsrequire",
   "main": "index.js",
   "author": "DiUS",
