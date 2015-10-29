@@ -1,10 +1,14 @@
 {
   "name": "lsrequireify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A browserify transform for lsrequire",
   "main": "index.js",
   "author": "DiUS",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiUS/lsrequireify"
+  },
   "homepage": "https://github.com/DiUS/lsrequireify",
   "dependencies": {
     "browserify-transform-tools": "^1.5.0",
